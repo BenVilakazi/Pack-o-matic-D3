@@ -1,0 +1,14 @@
+{
+  "name": "@mbostock/pack-o-matic",
+  "main": "2d544fc84242c1b1@500.js",
+  "version": "500.0.0",
+  "homepage": "https://observablehq.com/@mbostock/pack-o-matic",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
